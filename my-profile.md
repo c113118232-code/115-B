@@ -10,7 +10,7 @@
 
 我最喜歡的網站：[GitHub](https://github.com)
 
-![頭像](https://media.stork.pet/wp-content/uploads/2024/02/LINE_ALBUM_202426%E9%A4%8A%E8%AD%B7%E5%8D%80%EF%BC%88%E7%8B%97%EF%BC%89%E5%8F%AF%E8%AA%BF%E5%BA%A6%E6%B4%BB%E9%AB%94%E7%9B%B8%E7%B0%BF_240206_15.jpg)
+![頭像](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDuxI2FwYjlabrnxNpw9rnBOK7xIXXcCUgzsh8L92mU-39RuER5NRPBKmRnpf5DaUYNwhq-d_Llt57Hd6oMvueIeKPnPhaf379AZBZrv4&s=10)
 > 汪汪隊立大功。
 
 ## 教育背景
@@ -25,5 +25,4 @@ print("Hello, Markdown!")
 ```
 
 > 小狗
-> 是因為它能被閱讀、理解和修改。
-> 版本控制使這一切成為可能。
+> 是狗
